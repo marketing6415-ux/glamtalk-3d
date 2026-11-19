@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+*.blend
+*.blend1
+credentials.json
+node_modules/

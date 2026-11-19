@@ -1,0 +1,170 @@
+[
+  {
+    "id": "character",
+    "name": "Main character",
+    "parameters": {
+      "prompt": "Stylized adult woman age 25, friendly expressive face, warm medium skin, brown eyes, dark brown hair in a neat high bun, blush pink blouse, upper body including both arms and complete hands in relaxed A pose, neutral closed mouth, symmetrical neutral face without makeup, animation-ready clean separated limbs, single character, no props or background. Premium cozy 3D game style.",
+      "version": "G1",
+      "style": "cartoon",
+      "faceCount": 60000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "lipstick",
+    "name": "Lipstick",
+    "parameters": {
+      "prompt": "Single uncapped luxury lipstick with visible rose red wax bullet, rose gold metal barrel and ivory casing, upright, no detached cap, unbranded, realistic PBR metal and wax, isolated object.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 10000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "mascara_tube",
+    "name": "Mascara tube",
+    "parameters": {
+      "prompt": "Single open mascara tube without wand, elegant black lacquer cylinder with rose gold collar, upright, unbranded, realistic PBR, isolated object.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 10000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "mascara_wand",
+    "name": "Mascara wand",
+    "parameters": {
+      "prompt": "Single mascara wand with black handle, thin straight stem and dense cylindrical black bristle brush, separated standalone object, realistic PBR, unbranded.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 10000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "eyeshadow",
+    "name": "Open eyeshadow palette",
+    "parameters": {
+      "prompt": "Open luxury rectangular eyeshadow palette, twelve visible square pans arranged in three rows, warm peach bronze rose plum and cool mauve shades, ivory case, lid open at 110 degrees with mirror, realistic PBR, unbranded single object.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 20000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "blush",
+    "name": "Blush compact",
+    "parameters": {
+      "prompt": "Open round blush compact with peach pink pressed powder, rose gold rim, ivory case, attached lid open at 110 degrees, realistic PBR, unbranded single object.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 15000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "foundation",
+    "name": "Foundation bottle",
+    "parameters": {
+      "prompt": "Single frosted glass foundation bottle containing warm beige liquid, ivory pump and rose gold collar, no cap, unbranded realistic PBR cosmetic product.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 10000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "powder_brush",
+    "name": "Powder brush",
+    "parameters": {
+      "prompt": "Single large fluffy dome makeup powder brush, soft brown bristles, rose gold ferrule, long ivory handle, unbranded realistic PBR.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 10000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "eyeshadow_brush",
+    "name": "Eyeshadow brush",
+    "parameters": {
+      "prompt": "Single small rounded eyeshadow makeup brush, short dense brown bristles, rose gold ferrule, slim ivory handle, unbranded realistic PBR.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 10000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "eyeliner",
+    "name": "Eyeliner pen",
+    "parameters": {
+      "prompt": "Single uncapped black eyeliner pen with visible fine felt tip, black lacquer body and rose gold band, unbranded realistic PBR.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 10000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "vanity",
+    "name": "Vanity table and mirror",
+    "parameters": {
+      "prompt": "Single elegant compact vanity furniture unit: cream tabletop with one drawer, four slender rounded legs, attached upright large oval mirror in rose gold frame with evenly spaced globe bulbs. Empty tabletop, no accessories, premium cozy game style, physically based materials.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 40000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  },
+  {
+    "id": "makeup_bag",
+    "name": "Makeup bag",
+    "parameters": {
+      "prompt": "Single open blush pink quilted cosmetic pouch with gold zipper, empty visible interior, rounded soft leather shape, realistic PBR, no branding.",
+      "version": "G1",
+      "style": "photorealistic",
+      "faceCount": 15000,
+      "outputFormat": [
+        "glb"
+      ]
+    },
+    "result": "generated; optimized GLB included"
+  }
+]

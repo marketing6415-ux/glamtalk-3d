@@ -1,0 +1,74 @@
+[
+  {
+    "asset": "makeup_bag_glb.glb",
+    "original_bytes": 6765756,
+    "game_bytes": 806460,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "character_glb.glb",
+    "original_bytes": 8089172,
+    "game_bytes": 2645360,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "blush_glb.glb",
+    "original_bytes": 4595144,
+    "game_bytes": 705428,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "mascara_tube_glb.glb",
+    "original_bytes": 7137904,
+    "game_bytes": 937952,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "eyeliner_glb.glb",
+    "original_bytes": 5003028,
+    "game_bytes": 643912,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "powder_brush_glb.glb",
+    "original_bytes": 3605772,
+    "game_bytes": 496324,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "foundation_glb.glb",
+    "original_bytes": 3737892,
+    "game_bytes": 503972,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "vanity_glb.glb",
+    "original_bytes": 8038260,
+    "game_bytes": 2026152,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "eyeshadow_glb.glb",
+    "original_bytes": 8237916,
+    "game_bytes": 1571340,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "eyeshadow_brush_glb.glb",
+    "original_bytes": 3474836,
+    "game_bytes": 481872,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "lipstick_glb.glb",
+    "original_bytes": 3735524,
+    "game_bytes": 499388,
+    "geometry": "unchanged"
+  },
+  {
+    "asset": "mascara_wand_glb.glb",
+    "original_bytes": 9809180,
+    "game_bytes": 1273988,
+    "geometry": "unchanged"
+  }
+]
