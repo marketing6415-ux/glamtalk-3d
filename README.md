@@ -25,7 +25,7 @@ Open **http://localhost:8000**, wait for the models to load, and click **Start G
 - Use the sidebar destinations to walk to the beauty bar, wardrobe or sofa.
 - Press **E** near a destination to interact.
 - At the beauty bar, select a product and shade, then **Pick up & apply**.
-- Complete the guided six-step rosy look, or experiment in free play.
+- Start a choice-led makeover story: pick Everyday glow, Rosy afternoon, or Glam night out, then complete the guided six-step look—or choose free exploration.
 - Change outfit colors at the wardrobe.
 - Choose **Save my look**, then download the image from **My looks**.
 - Enable **Sound** for browser-synthesized character dialogue.
